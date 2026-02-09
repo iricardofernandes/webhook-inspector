@@ -1,5 +1,5 @@
 {
-  "id": "9a2eb18f-2243-4a38-9446-817b25f69fa6",
+  "id": "af1f284d-2a59-46be-954b-e9d0d2e8ce83",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -55,7 +55,7 @@
           "name": "query_params",
           "type": "jsonb",
           "primaryKey": false,
-          "notNull": true
+          "notNull": false
         },
         "headers": {
           "name": "headers",
